@@ -1,0 +1,4 @@
+ENVIRONMENT, dev, false
+ROOT_URL, https://dev-lambda.com, false
+API_KEY, dev-api-key, true
+SECRET_KEY, dev-secret-key, true

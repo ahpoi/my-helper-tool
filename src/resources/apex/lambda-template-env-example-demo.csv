@@ -1,0 +1,4 @@
+ENVIRONMENT, demo, false
+ROOT_URL, https://demo-lambda.com, false
+API_KEY, demo-api-key, true
+SECRET_KEY, demo-secret-key, true

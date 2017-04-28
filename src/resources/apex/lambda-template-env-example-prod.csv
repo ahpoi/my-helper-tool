@@ -1,0 +1,4 @@
+ENVIRONMENT, prod, false
+ROOT_URL, https://prod-lambda.com, false
+API_KEY, prod-api-key, true
+SECRET_KEY, prod-secret-key, true
